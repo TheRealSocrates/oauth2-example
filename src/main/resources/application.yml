@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: LoginApplication
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Ov23liBlsKRGYbV8Saac
+            clientSecret: 37638c96ba2fe1a141850a744b89fd8167d9c074
